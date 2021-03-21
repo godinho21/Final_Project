@@ -4,7 +4,7 @@
 
 Submitted by: Godwin Karngong Asohnyui
 
-Time spent: 4.5 hours spent in total
+Time spent: 4.8 hours spent in total
 
 Link to project: https://glitch.com/edit/#!/woozy-mixolydian-whale?path=index.html%3A33%3A45
 
